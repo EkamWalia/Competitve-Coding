@@ -1,0 +1,1 @@
+/usr/bin/c++   -g   CMakeFiles/mergesort_gfg.dir/CH-2_Getting_Started/mergesort_gfg.cpp.o  -o mergesort_gfg 

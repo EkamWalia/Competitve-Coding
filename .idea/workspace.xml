@@ -1,0 +1,579 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CMakeRunConfigurationManager" shouldGenerate="true" shouldDeleteObsolete="true" buildAllGenerated="true">
+    <generated>
+      <config projectName="Competitve_Coding" targetName="Competitve_Coding" />
+      <config projectName="Competitve_Coding" targetName="hello" />
+    </generated>
+  </component>
+  <component name="CMakeSettings">
+    <configurations>
+      <configuration CONFIG_NAME="Debug" />
+    </configurations>
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="b7a38144-0330-4d2b-9916-6b342f49cf5e" name="Default" comment="">
+      <change type="DELETED" beforePath="$PROJECT_DIR$/CodeChef/Beginner/110a.cpp" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/CodeChef/Beginner/a.out" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/CodeChef/Beginner/amr15a.cpp" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/CodeChef/Beginner/catsdogs.cpp" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/CodeChef/Beginner/chefarrp.cpp" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/CodeChef/Beginner/choprt.cpp" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/CodeChef/Beginner/cielrcpt.cpp" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/CodeChef/Beginner/flow001.cpp" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/CodeChef/Beginner/flow002.cpp" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/CodeChef/Beginner/flow004.cpp" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/CodeChef/Beginner/flow005.cpp" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/CodeChef/Beginner/flow006.cpp" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/CodeChef/Beginner/flow007.cpp" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/CodeChef/Beginner/flow008.cpp" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/CodeChef/Beginner/flow009.cpp" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/CodeChef/Beginner/flow011.cpp" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/CodeChef/Beginner/flow013.cpp" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/CodeChef/Beginner/flow016.cpp" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/CodeChef/Beginner/flow017.cpp" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/CodeChef/Beginner/flow018.cpp" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/CodeChef/Beginner/fsqrt.cpp" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/CodeChef/Beginner/gradesteel.cpp" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/CodeChef/Beginner/headbob.cpp" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/CodeChef/Beginner/luckfour.cpp" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/CodeChef/Beginner/muffins33.cpp" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/CodeChef/Beginner/omwg.cpp" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/CodeChef/Beginner/pall01.cpp" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/CodeChef/Beginner/ppsum.cpp" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/CodeChef/Beginner/prb01.cpp" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/CodeChef/Beginner/remiss.cpp" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/CodeChef/Beginner/snape.cpp" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/CodeChef/Beginner/spalnum.cpp" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/CodeChef/Beginner/start01.c" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/CodeChef/Beginner/start01.cpp" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/CodeChef/Beginner/test111.cpp" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/CodeChef/Beginner/tickets5.cpp" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/CodeChef/Beginner/tlg.cpp" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/CodeChef/Beginner/tricoin.cpp" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/CodeChef/Beginner/trisq.cpp" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/CodeChef/Beginner/tsort1.cpp" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/CodeChef/Beginner/vcs.cpp" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/CodeChef/Contest/a.out" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/CodeChef/Contest/ncc1.cpp" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/CodeChef/Easy/a.out" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/CodeChef/Easy/cielab.cpp" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/CodeChef/Easy/cleanup.cpp" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/CodeChef/Easy/dishlife.cpp" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/CodeChef/Easy/horses.cpp" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/CodeChef/Easy/simdish.cpp" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/CodeChef/Easy/simdish.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/CodeChef/Easy/test.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/CodeChef/Easy/test.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Hackerrank/Algorithms/.test.cpp.swp" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Hackerrank/Algorithms/Compare the Triplets.cpp" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Hackerrank/Algorithms/Compare the Triplets.exe" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Hackerrank/Algorithms/Compare the Triplets.o" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Hackerrank/Algorithms/Competitive Programming Guide.pdf" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Hackerrank/Algorithms/Untitled1.c" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Hackerrank/Algorithms/Untitled1.cpp" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Hackerrank/Algorithms/Untitled1.exe" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Hackerrank/Algorithms/Untitled1.o" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Hackerrank/Algorithms/a.out" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Hackerrank/Algorithms/aliceandbob.cpp" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Hackerrank/Algorithms/anagram.cpp" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Hackerrank/Algorithms/anagram.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Hackerrank/Algorithms/angry-professor.cpp" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Hackerrank/Algorithms/appendanddelete.cpp" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Hackerrank/Algorithms/applesandornges.cpp" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Hackerrank/Algorithms/bdaychocloate.cpp" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Hackerrank/Algorithms/bdaychocolate.cpp" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Hackerrank/Algorithms/bdaychocolatecpp" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Hackerrank/Algorithms/beautiful-days" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Hackerrank/Algorithms/beautiful-days.cpp" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Hackerrank/Algorithms/beautiful.cpp" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Hackerrank/Algorithms/beautifultriplets.cpp" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Hackerrank/Algorithms/beautifultriplets2.cpp" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Hackerrank/Algorithms/betweentwosets.cpp" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Hackerrank/Algorithms/betweentwosets.cpp[" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Hackerrank/Algorithms/breakrecords.cpp" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Hackerrank/Algorithms/btwtwosets.cpp" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Hackerrank/Algorithms/caesarcipher.cpp" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Hackerrank/Algorithms/camelcase.cpp" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Hackerrank/Algorithms/cats.cpp" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Hackerrank/Algorithms/cavitymaps.cpp" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Hackerrank/Algorithms/cutthesticks.cpp" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Hackerrank/Algorithms/divisible-sum-pairs.cpp" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Hackerrank/Algorithms/electronicsstore.cpp" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Hackerrank/Algorithms/encryption.cpp" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Hackerrank/Algorithms/equalityin array.cpp" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Hackerrank/Algorithms/equalityinarray.cpp" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Hackerrank/Algorithms/equalizearray.cpp" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Hackerrank/Algorithms/expected.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Hackerrank/Algorithms/fairrations.cpp" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Hackerrank/Algorithms/finddigits.cpp" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Hackerrank/Algorithms/findmedian.cpp" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Hackerrank/Algorithms/findusall.cpp" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Hackerrank/Algorithms/flatspacestation.cpp" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Hackerrank/Algorithms/gradingstudents.cpp" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Hackerrank/Algorithms/hackerrankinstring.cpp" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Hackerrank/Algorithms/icecreamparlour.cpp" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Hackerrank/Algorithms/icpcteam.cpp" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Hackerrank/Algorithms/insertionsort1.cpp" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Hackerrank/Algorithms/insertionsort2.cpp" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Hackerrank/Algorithms/introsorting.cpp" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Hackerrank/Algorithms/jugde.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Hackerrank/Algorithms/jumpclouds" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Hackerrank/Algorithms/jumpclouds.cpp" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Hackerrank/Algorithms/jumpcloudsorg.cpp" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Hackerrank/Algorithms/kangaroos.cpp" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Hackerrank/Algorithms/kaprekarnum.cpp" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Hackerrank/Algorithms/learnPythonTheHardWay" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Hackerrank/Algorithms/libraryfine.cpp" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Hackerrank/Algorithms/lisasworkbook.cpp" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Hackerrank/Algorithms/lonelyint.cpp" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Hackerrank/Algorithms/longfactorials.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Hackerrank/Algorithms/luckbalance.cpp" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Hackerrank/Algorithms/makinganagrams.cpp" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Hackerrank/Algorithms/markandtoys.cpp" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Hackerrank/Algorithms/marsexploration.cpp" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Hackerrank/Algorithms/maximizingxor.cpp" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Hackerrank/Algorithms/maxperimeter.cpp" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Hackerrank/Algorithms/maxxor.cpp" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Hackerrank/Algorithms/migratorybirds.cpp" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Hackerrank/Algorithms/mindistances.cpp" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Hackerrank/Algorithms/missingnumbers.cpp" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Hackerrank/Algorithms/output.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Hackerrank/Algorithms/pangram.cpp" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Hackerrank/Algorithms/permpossibility.cpp" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Hackerrank/Algorithms/permutationequation.cpp" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Hackerrank/Algorithms/permutingarrays.cpp" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Hackerrank/Algorithms/permutuing arrays.cpp" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Hackerrank/Algorithms/pickingnumbers.cpp" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Hackerrank/Algorithms/pythonelif.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Hackerrank/Algorithms/pythonrawinput.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Hackerrank/Algorithms/radiotransmitter.cpp" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Hackerrank/Algorithms/repeatedsring.cpp" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Hackerrank/Algorithms/repeatedstring.cpp" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Hackerrank/Algorithms/saveprisoner.cpp" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Hackerrank/Algorithms/servicelane.cpp" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Hackerrank/Algorithms/sherlockandsquares.cpp" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Hackerrank/Algorithms/spearatenumbers.cpp" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Hackerrank/Algorithms/strangecounter.cpp" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Hackerrank/Algorithms/stringcomp.cpp" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Hackerrank/Algorithms/stringcomp.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Hackerrank/Algorithms/superstring.cpp" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Hackerrank/Algorithms/taumandbday.cpp" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Hackerrank/Algorithms/taumandbday.cpp\" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Hackerrank/Algorithms/textattributes.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Hackerrank/Algorithms/w31b.cpp" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Hackerrank/Contests/101 Hack/a.out" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Hackerrank/Contests/101 Hack/pickingnumbers" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Hackerrank/Contests/101 Hack/pickingnumbers.cpp" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Hackerrank/Contests/101 Hack/pickingnumbers2.cpp" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Hackerrank/Contests/Untitled1.o" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Hackerrank/Contests/a.out" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Hackerrank/Contests/q1.cpp" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Hackerrank/Contests/q2.cpp" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Hackerrank/Contests/q3.cpp" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Hackerrank/Contests/q4.cpp" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Hackerrank/Contests/q5.cpp" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Hackerrank/Contests/w29-3.cpp" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Hackerrank/DS/hourglass.cpp" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Hackerrank/Python/leap_year.py" afterPath="" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Codeforces/a.out" afterPath="$PROJECT_DIR$/Codeforces/a.out" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Hackerrank/a.out" afterPath="$PROJECT_DIR$/Hackerrank/a.out" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Codeforces/131a.cpp" afterPath="$PROJECT_DIR$/Codeforces/131a.cpp" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Codeforces/25a.cpp" afterPath="$PROJECT_DIR$/Codeforces/25a.cpp" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Codeforces/466a.cpp" afterPath="$PROJECT_DIR$/Codeforces/466a.cpp" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Codeforces/580a.cpp" afterPath="$PROJECT_DIR$/Codeforces/580a.cpp" />
+    </list>
+    <ignored path="$PROJECT_DIR$/cmake-build-debug/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file leaf-file-name="hello.cpp" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/CodeChef/hello.cpp">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="216">
+              <caret line="12" column="0" lean-forward="false" selection-start-line="12" selection-start-column="0" selection-end-line="12" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/CodeChef/hello.cpp" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="ProjectFrameBounds">
+    <option name="x" value="-1" />
+    <option name="y" value="-11" />
+    <option name="width" value="1368" />
+    <option name="height" value="780" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1">
+      <flattenPackages />
+      <showMembers />
+      <showModules />
+      <showLibraryContents />
+      <hideEmptyPackages />
+      <abbreviatePackageNames />
+      <autoscrollToSource />
+      <autoscrollFromSource />
+      <sortByType />
+      <manualOrder />
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Competitve_Coding" />
+              <option name="myItemType" value="com.jetbrains.cidr.projectView.CidrFilesViewHelper$MyProjectTreeStructure$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Competitve-Coding" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Competitve_Coding" />
+              <option name="myItemType" value="com.jetbrains.cidr.projectView.CidrFilesViewHelper$MyProjectTreeStructure$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Competitve-Coding" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="CodeChef" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="com.intellij.ide.scratch.LRUPopupBuilder$2/Languages" value="ObjectiveC" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../Introduction to algorithms CLRS " />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Application.Competitve_Coding">
+    <configuration default="true" type="CLion_Remote" factoryName="GDB Remote Debug" remoteCommand="" symbolFile="" sysroot="">
+      <method />
+    </configuration>
+    <configuration default="true" type="CMakeCatchTestRunConfigurationType" factoryName="Catch Test" PASS_PARENT_ENVS_2="true" TEST_MODE="SUITE_TEST">
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="CMakeGoogleTestRunConfigurationType" factoryName="Google Test" PASS_PARENT_ENVS_2="true" TEST_MODE="SUITE_TEST">
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true">
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="ChromiumRemoteDebugType" factoryName="Chromium Remote">
+      <method />
+    </configuration>
+    <configuration default="true" type="CompoundRunConfigurationType" factoryName="Compound Run Configuration">
+      <method />
+    </configuration>
+    <configuration default="true" type="FirefoxRemoteDebugType" factoryName="Firefox Remote">
+      <method />
+    </configuration>
+    <configuration default="true" type="JavaScriptTestRunnerJest" factoryName="Jest">
+      <node-interpreter value="project" />
+      <working-dir value="" />
+      <envs />
+      <scope-kind value="ALL" />
+      <method />
+    </configuration>
+    <configuration default="true" type="JavaScriptTestRunnerProtractor" factoryName="Protractor">
+      <config-file value="" />
+      <node-interpreter value="project" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="JavascriptDebugType" factoryName="JavaScript Debug">
+      <method />
+    </configuration>
+    <configuration default="true" type="NodeWebKit" factoryName="NW.js">
+      <method />
+    </configuration>
+    <configuration default="true" type="PythonConfigurationType" factoryName="Python">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="Competitve-Coding" />
+      <option name="SCRIPT_NAME" value="" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <method />
+    </configuration>
+    <configuration default="true" type="ReactNative" factoryName="React Native">
+      <node-interpreter value="project" />
+      <platform value="ANDROID" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="Tox" factoryName="Tox">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="Competitve-Coding" />
+      <method />
+    </configuration>
+    <configuration default="true" type="XSLT" factoryName="XSLT">
+      <option name="myOutputFile" />
+      <option name="myOpenOutputFile" value="false" />
+      <option name="myOpenInBrowser" value="false" />
+      <option name="mySmartErrorHandling" value="true" />
+      <option name="myRunnerPort" value="34873" />
+      <option name="myVmArguments" />
+      <option name="myWorkingDirectory" />
+      <option name="myModule" />
+      <option name="myJdk" />
+      <parameters />
+      <OutputType value="CONSOLE" save-to-file="false" />
+      <FileType name="XML" />
+      <JdkChoice value="FROM_MODULE" />
+      <method />
+    </configuration>
+    <configuration default="true" type="js.build_tools.grunt" factoryName="Grunt.js">
+      <node-interpreter value="project" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="js.build_tools.gulp" factoryName="Gulp.js">
+      <node-interpreter>project</node-interpreter>
+      <node-options />
+      <gulpfile />
+      <tasks />
+      <arguments />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="js.build_tools.npm" factoryName="npm">
+      <command value="run" />
+      <scripts />
+      <node-interpreter value="project" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="tests" factoryName="Doctests">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="Competitve-Coding" />
+      <option name="SCRIPT_NAME" value="" />
+      <option name="CLASS_NAME" value="" />
+      <option name="METHOD_NAME" value="" />
+      <option name="FOLDER_NAME" value="" />
+      <option name="TEST_TYPE" value="TEST_SCRIPT" />
+      <option name="PATTERN" value="" />
+      <option name="USE_PATTERN" value="false" />
+      <method />
+    </configuration>
+    <configuration default="true" type="tests" factoryName="Nosetests">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="Competitve-Coding" />
+      <option name="_new_regexPattern" value="&quot;&quot;" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;.&quot;" />
+      <option name="_new_targetType" value="&quot;PATH&quot;" />
+      <method />
+    </configuration>
+    <configuration default="true" type="tests" factoryName="Unittests">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="Competitve-Coding" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;.&quot;" />
+      <option name="_new_targetType" value="&quot;PATH&quot;" />
+      <method />
+    </configuration>
+    <configuration default="true" type="tests" factoryName="py.test">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="Competitve-Coding" />
+      <option name="_new_keywords" value="&quot;&quot;" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;.&quot;" />
+      <option name="_new_targetType" value="&quot;PATH&quot;" />
+      <method />
+    </configuration>
+    <configuration default="false" name="Build All" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" CONFIG_NAME="Debug" EXPLICIT_BUILD_TARGET_NAME="all">
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="false" name="Competitve_Coding" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Competitve_Coding" TARGET_NAME="Competitve_Coding" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="Competitve_Coding" RUN_TARGET_NAME="Competitve_Coding">
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="false" name="hello" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Competitve_Coding" TARGET_NAME="hello" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="Competitve_Coding" RUN_TARGET_NAME="hello">
+      <envs />
+      <method />
+    </configuration>
+    <list size="3">
+      <item index="0" class="java.lang.String" itemvalue="Application.Build All" />
+      <item index="1" class="java.lang.String" itemvalue="Application.Competitve_Coding" />
+      <item index="2" class="java.lang.String" itemvalue="Application.hello" />
+    </list>
+  </component>
+  <component name="ShelveChangesManager" show_recycled="false">
+    <option name="remove_strategy" value="false" />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="b7a38144-0330-4d2b-9916-6b342f49cf5e" name="Default" comment="" />
+      <created>1499087454395</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1499087454395</updated>
+      <workItem from="1499087458212" duration="504000" />
+      <workItem from="1499088021582" duration="47000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="551000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-1" y="-11" width="1368" height="780" extended-state="6" />
+    <editor active="true" />
+    <layout>
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.20454545" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
+      <window_info id="CMake" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32972136" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="true" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4148607" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Data View" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32954547" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="3" side_tool="false" content_ui="combo" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="processedProjectFiles" value="true" />
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager />
+    <watches-manager />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/CodeChef/hello.cpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/CMakeLists.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="162">
+          <caret line="9" column="29" lean-forward="true" selection-start-line="9" selection-start-column="29" selection-end-line="9" selection-end-column="29" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$APPLICATION_CONFIG_DIR$/scratches/scratch_1.cpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/CodeChef/hello.cpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="216">
+          <caret line="12" column="0" lean-forward="false" selection-start-line="12" selection-start-column="0" selection-end-line="12" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>

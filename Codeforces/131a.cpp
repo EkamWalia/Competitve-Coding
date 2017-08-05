@@ -1,14 +1,33 @@
 #include<bits/stdc++.h>
-#include<string>
+#include<ctype.h>
 using namespace std;
 int main()
 {
-    string s,s1;
+    string s;
     cin>>s;
-    if(isupper(s[0]) && islower(s[1]))
-    {
-      cout<<s<<endl;
-      return 0;
-    }
-    else if()
+   	int flag = 1;
+  		
+   	for(int i=1,n=s.length();i<n;i++)
+   	{
+   		if(islower(s[i]))
+   		{
+   			flag=0;
+   			break;
+ 
+   		}
+   	}
+
+   	if(flag == 0) cout<<s<<endl;
+   	else
+   	{
+   		for(int i=0,n=s.length();i<n;i++)
+   		{	
+   			if(islower(s[i]))
+   				cout<<(char)toupper(s[i]);
+   			else
+   				cout<<(char)tolower(s[i]);
+   		}
+   		cout<<endl;
+   	}
+   	return 0;
 }

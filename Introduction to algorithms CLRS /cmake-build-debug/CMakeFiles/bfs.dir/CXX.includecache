@@ -1,0 +1,12 @@
+#IncludeRegexLine: ^[ 	]*#[ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/media/ekamwalia/5474469E7446832A/Introduction to algorithms CLRS /CH22 Elementary Graph Algorithms/bfs.cpp
+bits/stdc++.h
+-
+
