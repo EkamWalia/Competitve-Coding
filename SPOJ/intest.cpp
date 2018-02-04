@@ -12,13 +12,19 @@ int main()
   ios_base::sync_with_stdio(false);
   cin.tie(NULL);
 
-  int t;
-  cin>>t;
-  while(t--)
+  int n,k;
+  cin>>n>>k;
+  int c = 0;
+
+  while(n--)
   {
-    int n;
-    cin>>n;
-    cout<<"Hello"<<n<<endl;
+    int temp;
+    cin>>temp;
+
+    if(!(temp%k))
+      c++;
   }
+
+  cout<<c<<"\n";
   return 0;
 }
