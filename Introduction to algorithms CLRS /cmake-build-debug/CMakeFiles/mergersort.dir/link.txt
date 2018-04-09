@@ -1,1 +1,0 @@
-/usr/bin/c++   -g   CMakeFiles/mergersort.dir/CH-2_Getting_Started/mergersort.cpp.o  -o mergersort 
