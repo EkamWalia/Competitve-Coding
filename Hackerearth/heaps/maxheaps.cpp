@@ -21,6 +21,9 @@ int main() {
     int a[] = {0,8,7,6,3,2,4,5};
     int n = 7;
 
+    int b[1000005];
+
+    cout<<(sizeof(b)/sizeof(n))<<endl;
     for(int i=n/2;i>=1;i--) {
         max_heapify(a,i,n);
     }
