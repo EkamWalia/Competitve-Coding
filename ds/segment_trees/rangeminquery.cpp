@@ -1,100 +1,99 @@
 #include<bits/stdc++.h>
 using namespace std;
 
-void build(int a[], int tree[],int node, int start, int end) {
-		
-	if(start == end) 
-		tree[node]	= a[start];
-
-	else {
-
-		int mid = ( start + end )/2;
-
-		build(a,tree,2*node+1, start, mid);
-		build(a,tree,2*node+2,mid+1, end);
-
-		tree[node] = tree[2*node+1] + tree[2*node+2];
-	}
-}
-
-
-void update(int a[], int tree[], int node, int start, int end, int ind, int val) {
+void build(int a[], int tree[], int node, int start, int end) {
 	if(start == end) {
-		a[ind] = +val;
-		tree[node] += val;
-	} else {
-		int mid = start + (end-start)/2;
-
-		if(start<=ind && ind<=mid)
-		update(a,tree,2*node+1,start,mid,ind,val);
-		else
-		update(a,tree,2*node+2,mid+1,end,ind,val);
-
-		tree[node] = tree[2*node+1] + tree[2*node+2];
+		tree[node] = a[start];	
+		return;
 	}
+
+	int mid = start + (end-start)/2;
+	build(a,tree,2*node+1,start,mid);
+	build(a,tree,2*node+2,mid+1,end);
+
+	tree[node] = min(tree[2*node+1], tree[2*node+2]);
+	
+	return;
+}
+	
+void update(int a[], int tree[], int node, int start, int end, int pos, int val) {
+	if(start == end) {
+		a[pos] = val;
+		tree[node] = val;
+		return;
+	}
+	
+	int mid = start + (end-start)/2;
+
+	if(start<= pos && pos<=mid) 
+		update(a,tree,2*node+1,start,mid,pos,val);
+	else 
+		update(a,tree,2*node+2,mid+1,end,pos,val);
+
+	tree[node] = min(tree[2*node+1],tree[2*node+2]);
+
+	return;
 }
 
+int query(int tree[], int node, int start, int end, int l, int r) {
 
-int query(int a[], int tree[], int node, int start, int end, int l, int r) {
-
-	if(start > r || end < l) {
-
-		return 0;
-	} else if(start >=l && r >= end) {
-
+	if(r<start || end<l) 
+		return INT_MAX;
+	if(l <= start && end <= r) 
 		return tree[node];
-	}
 
-	int mid = (end+start)/2;
+	int mid = start + (end-start)/2;
 
-	int s1,s2;
+	int x = query(tree, node*2+1, start, mid, l, r);
+	int y = query(tree, node*2+2, mid+1, end, l, r);
 
-	s1 = query(a,tree,2*node+1, start, mid, l,r);
-	s2 = query(a,tree,2*node+2, mid+1, end, l,r);
-
-	return s1+s2;
-} 
+	return min(x,y); 
+}
 
 int main() {
 
-	// IO
-	int n;
-	cin>>n;
+	int n,t;
+	cin>>n>>t;
 
-	int x = (int)(ceil(log2(n))); 
- 
-    // Maximum size of segment tree
-    int max_size = 2*(int)pow(2, x) - 1; 
-
-    cout<<max_size<<endl;
-
-	int a[n], tree[max_size];
+	int a[n];
 
 	for(int i=0;i<n;i++) cin>>a[i];
-	
-	// QUERY
+
+	int x = (int)(ceil(log2(n))); 
+    	int max_size = 2*(int)pow(2, x) - 1;
+
+
+	int tree[max_size];
+
 	build(a,tree,0,0,n-1);
 
-	// Query
-	int l,r;
-	cin>>l>>r;
+	//for(int i=0;i<max_size;i++) cout<<i<<"  "<<tree[i]<<endl;
 
-	for(int i=0;i<max_size;i++) cout<<i<<"  "<<tree[i]<<endl;
+	//int pos, val;
+	//cin>>pos>>val;
 	
-	cout<<query(a,tree,0,0,n-1,l,r)<<endl;
+	//update(a,tree,0,0,n-1,pos,val);
+	//for(int i=0;i<max_size;i++) cout<<i<<"  "<<tree[i]<<endl;
+	while(t--) {
+
+		char x;
+		cin>>x;
+
+		if(x == 'q') {
+			int l,r;
+			cin>>l>>r;
+			l--;r--;
+			int min = query(tree,0,0,n-1,l,r);
+			cout<<min<<endl;		
+		} else {
+			int pos,val;
+			cin>>pos>>val;
+			pos--;
+			update(a,tree,0,0,n-1,pos,val);
+			//for(int i=0;i<n;i++) cout<<a[i]<<"  ";
+			//cout<<"\ndone\n";
+		}
+	}
 	
-	//Update
-	int ind, val;
-	cin>>ind>> val;
-
-	update(a,tree,0,0,n-1,ind,val);
-		for(int i=0;i<max_size;i++) cout<<i<<"  "<<tree[i]<<endl;
-
-	cout<<"Enter lr";
-
-	cin>>l>>r;
-
-	cout<<query(a,tree,0,0,n-1,l,r)<<endl;
-
 	return 0;
 }
