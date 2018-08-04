@@ -77,6 +77,38 @@ void levelorder(Node* root) {
 	}
 }
 
+Node* findMinValue(Node* root) {
+
+	while(root->left) {
+		root = root->left;
+	}
+
+	return root;
+}
+
+// Inorder Bnary Tree
+Node* inorderSuccBT(Node* root, Node* n) {
+	if(n->right) {
+		Node* succ = findMinValue(n->right);
+		return succ;
+	}
+
+	Node* succ = nullptr;
+
+	while(root) {
+		if(root->data > n->data) {
+			succ = root;
+			root = root->left;
+		} else if(root->data < n->data) {
+			root = root->right;
+		} else {
+			break;
+		}
+	}
+
+	return succ;
+}
+
 int main() {
 	int n = 9;
 	int a[9] = {5,3,2,4,1,6,8,7,9};
@@ -95,6 +127,11 @@ int main() {
 	postorder(root);
 	cout<<"\n";
 
-	levelorder(root);
+	Node* t1 = inorderSuccBT(root, (root->left)->right);
+	Node* t2 = inorderSuccBT(root, root->right);
+	Node* t3 = inorderSuccBT(root, ((root->left)->left)->left);
+	
+	cout<<t1->data<<" "<<t2->data<<" "<<t3->data<<endl;
+
 	cout<<endl;
 }
